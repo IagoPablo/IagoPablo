@@ -3,9 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48CFCB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Iago!;Eu+Tenho+19+Anos;Estudo+Desenvolvimento+Web;e+Sistemas+Back-end+Com+Python;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoPablo&show_icons=true&count_private=true&hide_border=true&title_color=48CFCB&icon_color=48CFCB&text_color=48CFCB&bg_color=0d1117" alt="Iago Pablo github stats" /> 
   <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=IagoPablo&theme=prussian&show_icons=true" alt="Stats" />
 </div>
+
+<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=IagoPablo&theme=prussian" alt="Top Languages" />
+
+
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
