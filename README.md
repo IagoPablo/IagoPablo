@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoPablo&show_icons=true&count_private=true&hide_border=true&title_color=48CFCB&icon_color=48CFCB&text_color=48CFCB&bg_color=0d1117" alt="Iago Pablo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoPablo&show_icons=true&theme=radical" />
+  <img width="41%" height="195px" src="(https://github-readme-stats-fast.vercel.app/api?username=IagoPablo-2005&show_icons=true)" />
 </div>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
